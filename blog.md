@@ -6,4 +6,4 @@
   
   Thank you for reading my blog. As a reward, I will tell you something that no one else on the planet knows. I drank drip coffee this morning for the first time in 2 years. I'm at an AirBnB at the lake and forgot my french press. It was terrible. 
   
-  ![Pic of my terrible coffee](https://user-images.githubusercontent.com/83032886/186911147-f7a385c5-6022-47a5-b260-25f3bb5bd12a.jpeg)
+<img src="https://user-images.githubusercontent.com/83032886/186911147-f7a385c5-6022-47a5-b260-25f3bb5bd12a.jpeg" height="200" width="200">
