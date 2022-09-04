@@ -23,7 +23,7 @@
   
   * Thank you for reading my blog. As a reward, I will tell you something that no one else on the planet knows. I drank drip coffee this morning for the first time in 2 years. I'm at an AirBnB at the lake and forgot my french press. It was terrible. 
   
-<img src="https://user-images.githubusercontent.com/83032886/186911147-f7a385c5-6022-47a5-b260-25f3bb5bd12a.jpeg" height="200" width="200" position="center">
+<img src="https://user-images.githubusercontent.com/83032886/186911147-f7a385c5-6022-47a5-b260-25f3bb5bd12a.jpeg" height="200" width="200">
 ---
 
 # September 4, 2022: Blog 2.0
@@ -43,5 +43,6 @@
 > If I get stuck on something I usually take a break and do something else for a few minutes. This helps me look at the problem from fresh eyes when I return.
 ---
 *** Sidenote: I really need to get an office space set up in my house. Here's one from a website I found that I really love!
-<img src="Images/officegoals.webp" height="200" width="200" position="center">
+
+<img src="Images/officegoals.webp" height="200" width="200">
 ---
