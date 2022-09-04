@@ -7,7 +7,6 @@
 </style>
 
 
-
 # August 26, 2022: My First Week of Bootcamp
 
 ## Q and A with Lindsay
@@ -34,9 +33,14 @@
 ---
 
 1. What is something you wish you could do but currently do not have the coding skills to accomplish?
-
+> I wish I could do the Grasshopper assignments without hitting the help button EVERY. TIME.
+---
 2. What are you struggling with?
-
+> I am struggling with a few things, one of them being mental fatigue. I am building my endurace for learning so much every day. I am glad that we have this time in Onboarding to work on this.
+---
 3. How do you solve a problem? 
-
+> I have been solving problems by searching for answers online. I am trying to use slack more.
+---
 4. What methods do you use to help yourself get unstuck?
+> If I get stuck on something I usually take a break and do something else for a few minutes. This helps me look at the problem from fresh eyes when I return.
+
