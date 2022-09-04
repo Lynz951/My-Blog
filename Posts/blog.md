@@ -42,4 +42,6 @@
 4. What methods do you use to help yourself get unstuck?
 > If I get stuck on something I usually take a break and do something else for a few minutes. This helps me look at the problem from fresh eyes when I return.
 ---
-
+*** Sidenote: I really need to get an office space set up in my house. Here's one from a website I found that I really love!
+<img src="Images/officegoals.webp" height="200" width="200" position="center">
+---
