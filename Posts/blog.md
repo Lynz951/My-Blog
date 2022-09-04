@@ -44,5 +44,5 @@
 ---
 *** Sidenote: I really need to get an office space set up in my house. Here's one from a website I found that I really love!
 
-<img src="Images/officegoals.webp" height="200" width="200">
+<img src="Images/DE9C8004-83CA-43DD-8F1A-A0403B62989C.jpeg" height="200" width="200">
 ---
