@@ -1,4 +1,8 @@
-body {
+html {
     background-color: light-blue;
     font-family: "monospace" monaco;
   }
+
+img {
+    align: center;
+}
