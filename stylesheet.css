@@ -1,8 +1,12 @@
+
 html {
     background-color: light-blue;
     font-family: "monospace" monaco;
   }
 
-img {
-    align: center;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
